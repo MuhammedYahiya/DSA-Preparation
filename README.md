@@ -36,7 +36,7 @@ Each problem links to the original challenge page (e.g., HackerRank), and includ
 |-----|--------------------------|------------------------|------------|----------------|
 | 1   | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [diagonalDifference.js](./ProblemSolving/diagonalDifference.js) | 🟩 Easy     | Math, Matrix   |
 | 2   | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.js](./ProblemSolving/staircase.js) | 🟩 Easy | Star Printing |
-
+| 3   | [Grading Student](https://www.hackerrank.com/challenges/grading/problem) | [gradingStudent.js](./ProblemSolving/gradingStudents.js) | 🟩 Easy | Condition, Array |
 
 --- 
 
