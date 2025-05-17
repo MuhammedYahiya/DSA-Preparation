@@ -1,0 +1,34 @@
+# 🧠 DSA Questions Practice
+
+This repository contains practice problems focused on **Data Structures and Algorithms (DSA)**.  
+Problems are organized by topic to help you build strong foundations in logical reasoning, problem-solving, and coding techniques — essential for coding interviews and technical assessments.
+
+---
+
+## 📌 About
+
+This collection is designed for:
+
+- Practicing commonly asked DSA problems 
+- Strengthening problem-solving and logical thinking
+- Preparing for coding rounds in interviews and job assessments
+- Tracking your progress topic-wise with clean folder and file organization
+
+Each problem links to the original challenge page (e.g., HackerRank), and includes a local solution file in Python.
+
+---
+
+## 📚 Table of Contents
+
+- [Problem Solving](#ProblemSolving)
+<!-- Add more sections as needed -->
+
+---
+
+## ✅ Legend
+
+- 🟩 Easy
+- 🟧 Medium
+- 🟥 Hard
+
+---
