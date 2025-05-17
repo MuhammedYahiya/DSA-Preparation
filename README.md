@@ -34,9 +34,11 @@ Each problem links to the original challenge page (e.g., HackerRank), and includ
 ---
 | #   | Title                    | Code File              | Difficulty | Tags           |
 |-----|--------------------------|------------------------|------------|----------------|
-| 1   | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | `diagonalDifference.js`      | 🟩 Easy     | Math, Matrix   |
+| 1   | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [diagonalDifference.js](./ProblemSolving/diagonalDifference.js) | 🟩 Easy     | Math, Matrix   |
+| 2   | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.js](./ProblemSolving/staircase.js) | 🟩 Easy | Star Printing |
 
----
+
+--- 
 
 
 ## 📌 Notes
