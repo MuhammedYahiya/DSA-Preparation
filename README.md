@@ -32,3 +32,14 @@ Each problem links to the original challenge page (e.g., HackerRank), and includ
 - 🟥 Hard
 
 ---
+| #   | Title                    | Code File              | Difficulty | Tags           |
+|-----|--------------------------|------------------------|------------|----------------|
+| 1   | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | `diagonalDifference.js`      | 🟩 Easy     | Math, Matrix   |
+
+---
+
+
+## 📌 Notes
+
+- Click on the problem title to open the original challenge page.
+- Local `.py` files contain your code solutions.
