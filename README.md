@@ -20,7 +20,7 @@ Each problem links to the original challenge page (e.g., HackerRank), and includ
 
 ## 📚 Table of Contents
 
-- [Problem Solving](#ProblemSolving)
+- [Problem Solving](./ProblemSolving)
 <!-- Add more sections as needed -->
 
 ---
