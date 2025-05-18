@@ -44,4 +44,4 @@ Each problem links to the original challenge page (e.g., HackerRank), and includ
 ## 📌 Notes
 
 - Click on the problem title to open the original challenge page.
-- Local `.py` files contain your code solutions.
+- Local `.js` files contain your code solutions.
