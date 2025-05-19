@@ -38,6 +38,7 @@ Each problem links to the original challenge page (e.g., HackerRank), and includ
 | 2   | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.js](./ProblemSolving/staircase.js) | 🟩 Easy | Star Printing |
 | 3   | [Grading Student](https://www.hackerrank.com/challenges/grading/problem) | [gradingStudent.js](./ProblemSolving/gradingStudents.js) | 🟩 Easy | Condition, Array |
 | 4   | [Time Conversion](https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem) | [timeConversion.js](./ProblemSolving/timeConversion.js) | 🟩 Easy | String |
+| 5   | [Breaking The Records](https://www.hackerrank.com/challenges/three-month-preparation-kit-breaking-best-and-worst-records/problem) | [BreakingTheRecords.js](./ProblemSolving/BreakingTheRecords.js) | 🟩 Easy | Array |
 --- 
 
 
